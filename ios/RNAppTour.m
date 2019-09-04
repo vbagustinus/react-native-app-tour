@@ -146,7 +146,7 @@ RCT_EXPORT_METHOD(ShowFor:(nonnull NSNumber *)view props:(NSDictionary *)props)
     }
     NSString *targetCircleColorValue = [props objectForKey:@"targetCircleColor"];
     if (targetCircleColorValue != nil) {
-        targetCircleColor = [self colorWithHexString: targetCircleColorValue];
+        targetCircleColor = [UIColor clearColor];
     }
 
 
