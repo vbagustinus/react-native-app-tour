@@ -4,7 +4,7 @@
   "description": "React Native: Native App Tour Library",
   "repository": {
     "type": "git",
-    "url": "https://github.com/prscX/react-native-app-tour.git"
+    "url": "https://github.com/vbagustinus/react-native-app-tour"
   },
   "main": "RNAppTour.js",
   "scripts": {
